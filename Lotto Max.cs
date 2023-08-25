@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 using System.Windows.Forms;
-namespace Project_420_CT2_AS
+namespace prjMultiConverter
 {//Created by Dinh Hoang Nhan, Nguyen
  //modified on 22-11-2021
  //Form LotoMax
@@ -12,7 +12,7 @@ namespace Project_420_CT2_AS
         string filePath = @".\Data\LottoNbrs.txt";
         private void button3_Click(object sender, EventArgs e)
         {
-             byte btnVal = 0;
+            byte btnVal = 0;
             btnVal = Convert.ToByte(MessageBox.Show("Do you want to quit this application ?", "Exit?", MessageBoxButtons.YesNo, MessageBoxIcon.Question));
             if (btnVal == 6) { this.Close(); }
         }

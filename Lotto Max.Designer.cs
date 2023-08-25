@@ -1,5 +1,5 @@
 ﻿
-namespace Project_420_CT2_AS
+namespace prjMultiConverter
 {
     partial class Lotto_Max
     {

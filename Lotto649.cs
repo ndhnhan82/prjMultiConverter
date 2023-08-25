@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 using System.Windows.Forms;
-namespace Project_420_CT2_AS
+namespace prjMultiConverter
 {//Created by Dinh Hoang Nhan, Nguyen
  //modified on 22-11-2021
  //Form Lotto 649

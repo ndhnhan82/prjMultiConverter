@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace Project_420_CT2_AS
+namespace prjMultiConverter
 {
     static class Program
     {

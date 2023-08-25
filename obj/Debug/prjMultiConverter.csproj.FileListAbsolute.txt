@@ -1,0 +1,16 @@
+D:\GITHUB\prjMultiConverter\prjMultiConverter\bin\Debug\prjMultiConverter.exe.config
+D:\GITHUB\prjMultiConverter\prjMultiConverter\bin\Debug\prjMultiConverter.exe
+D:\GITHUB\prjMultiConverter\prjMultiConverter\bin\Debug\prjMultiConverter.pdb
+D:\GITHUB\prjMultiConverter\prjMultiConverter\obj\Debug\prjMultiConverter.csproj.AssemblyReference.cache
+D:\GITHUB\prjMultiConverter\prjMultiConverter\obj\Debug\prjMultiConverter.IPv4.resources
+D:\GITHUB\prjMultiConverter\prjMultiConverter\obj\Debug\prjMultiConverter.Dashboard.resources
+D:\GITHUB\prjMultiConverter\prjMultiConverter\obj\Debug\prjMultiConverter.Lotto_Max.resources
+D:\GITHUB\prjMultiConverter\prjMultiConverter\obj\Debug\prjMultiConverter.Lotto649.resources
+D:\GITHUB\prjMultiConverter\prjMultiConverter\obj\Debug\prjMultiConverter.MoneyEx.resources
+D:\GITHUB\prjMultiConverter\prjMultiConverter\obj\Debug\prjMultiConverter.Properties.Resources.resources
+D:\GITHUB\prjMultiConverter\prjMultiConverter\obj\Debug\prjMultiConverter.Simple_Calculator.resources
+D:\GITHUB\prjMultiConverter\prjMultiConverter\obj\Debug\prjMultiConverter.Temp.resources
+D:\GITHUB\prjMultiConverter\prjMultiConverter\obj\Debug\prjMultiConverter.csproj.GenerateResource.cache
+D:\GITHUB\prjMultiConverter\prjMultiConverter\obj\Debug\prjMultiConverter.csproj.CoreCompileInputs.cache
+D:\GITHUB\prjMultiConverter\prjMultiConverter\obj\Debug\prjMultiConverter.exe
+D:\GITHUB\prjMultiConverter\prjMultiConverter\obj\Debug\prjMultiConverter.pdb

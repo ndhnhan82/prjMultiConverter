@@ -3,7 +3,7 @@ using System.Windows.Forms;
 //Created by Dinh Hoang Nhan, Nguyen
 //modified on 22-11-2021
 //Form IPv4
-namespace Project_420_CT2_AS
+namespace prjMultiConverter
 {
     public partial class IPv4 : Form
     {

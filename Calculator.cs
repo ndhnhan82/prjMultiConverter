@@ -1,7 +1,8 @@
 ﻿//Create class Calculator for object for the Form Simple Calculator
 
-namespace Project_420_CT2_AS
-{   class Calculator
+namespace prjMultiConverter
+{
+    class Calculator
     {//Private fields for class
         private decimal currentValue;
         private decimal operand1;

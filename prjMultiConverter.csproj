@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{906E2305-CFA2-4A21-9C51-C17BEFCF9060}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Project_420_CT2_AS</RootNamespace>
-    <AssemblyName>Project_420-CT2-AS</AssemblyName>
+    <RootNamespace>prjMultiConverter</RootNamespace>
+    <AssemblyName>prjMultiConverter</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -48,7 +48,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Project_420_CT2_AS.Program</StartupObject>
+    <StartupObject>prjMultiConverter.Program</StartupObject>
   </PropertyGroup>
   <PropertyGroup>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -126,6 +126,7 @@
     </EmbeddedResource>
     <EmbeddedResource Include="MoneyEx.resx">
       <DependentUpon>MoneyEx.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

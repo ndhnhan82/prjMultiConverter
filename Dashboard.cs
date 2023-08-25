@@ -3,7 +3,7 @@ using System.Windows.Forms;
 //The Dashboard
 //Created by Dinh Hoang Nhan, Nguyen
 //modified on 22-11-2021
-namespace Project_420_CT2_AS
+namespace prjMultiConverter
 {
     public partial class Dashboard : Form
     {

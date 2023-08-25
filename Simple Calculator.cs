@@ -4,7 +4,7 @@ using System.Windows.Forms;
 //Created by Dinh Hoang Nhan, Nguyen
 //modified on 22-11-2021
 //Form SImple Calculator
-namespace Project_420_CT2_AS
+namespace prjMultiConverter
 {
     public partial class Simple_Calculator : Form
     {
